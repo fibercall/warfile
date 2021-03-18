@@ -1,0 +1,3 @@
+amazon\echo\EchoServiceInServerIT.class
+amazon\echo\TestEchoService.class
+amazon\echo\RESTEchoServiceIT.class
